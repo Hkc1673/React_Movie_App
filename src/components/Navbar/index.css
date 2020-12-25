@@ -1,0 +1,11 @@
+.homeButton {
+    border: 0.0625rem solid rgba(0,0,0,0.2);
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: blueviolet;
+    color: white;
+} 
+
+.homeButton:hover {
+    box-shadow: 0.3rem 0.3rem 0.9rem rgba(0,0,0,0.5);
+}
